@@ -75,6 +75,7 @@ for _ in range (0,3):
 #
 # button_3 = Button(root, text="3")
 # button_3.grid(column=2, row=3, padx=10, pady=10, ipadx=30, ipady=30)
+#asd
 
 root.mainloop()
 
